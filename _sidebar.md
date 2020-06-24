@@ -3,10 +3,10 @@
   
 * Java
 
-  * [Java基础](./docs/java/1面试题总结-Java基础.md)
-  * [Java集合](./docs/java/2Java集合.md)
-  * [Java多线程](./docs/java/3Java多线程.md)
-  * [jvm](./docs/java/4jvm.md)
+  * [Java基础](./docs/Java/1面试题总结-Java基础.md)
+  * [Java集合](./docs/Java/2Java集合.md)
+  * [Java多线程](./docs/Java/3Java多线程.md)
+  * [jvm](./docs/Java/4jvm.md)
 
 * 计算机基础
 
