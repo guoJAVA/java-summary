@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">java-summary</h1>
 
-[常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
-[GitHub](https://github.com/Snailclimb/docsify-demo)
+[常用资源](https://docsify.js.org/)
+[GitHub](https://github.com/guoJAVA/java-summary)
 [开始阅读](#java-summary)
 
 
